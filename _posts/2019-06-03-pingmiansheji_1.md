@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 平面设计/Graphic Design
+excerpt_separator: "<!--more-->"
 date: 2019-06-03
 categories:
      - 平面设计
