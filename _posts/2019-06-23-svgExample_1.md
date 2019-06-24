@@ -15,8 +15,9 @@ tags:
 ## SVG有趣的例子
 - 鼠标停放在div中颜色会渐变
 <head>
+  <meta charset="UTF-8">
 <style> 
-div
+.QXF
 {
 width:100px;
 height:100px;
@@ -24,7 +25,7 @@ background:red;
 animation:my 5s;
 }
 
-@keyframes my
+.QXF
 {
 from {background:red;}
 to {background:blue;}
@@ -36,8 +37,5 @@ to {background:blue;}
 </head>
 <body>
 
-<div></div>
-
-<p>渐变色</p>
-
+<div class="QXF">A</div>
 </body>
