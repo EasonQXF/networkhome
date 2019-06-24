@@ -17,7 +17,7 @@ lang: zn-CN
 title: 丘小峰之人间不值得
 email:
 description:
-baseurl: "/jekyll-theme-basically-basic"# the optional subpath of your site, e.g. "/blog"
+baseurl: "/" #jekyll-theme-basically-basic"# the optional subpath of your site, e.g. "/blog"
 url: "https://gitee.com/EdisonQXF/projects"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "丘小峰"
