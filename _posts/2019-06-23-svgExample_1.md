@@ -25,7 +25,7 @@ background:red;
 animation:my 5s;
 }
 
-.QXF
+@keyframes QXF
 {
 from {background:red;}
 to {background:blue;}
