@@ -13,7 +13,7 @@ tags:
 2.
 <!--more-->
 ## SVG有趣的例子
-- 鼠标停放在div中颜色会渐变
+- 颜色会渐变
 <head>
   <meta charset="UTF-8">
 <style> 
@@ -23,6 +23,7 @@ width:100px;
 height:100px;
 background:red;
 animation:QXF 5s;
+animation-iteration-count: infinite;
 }
 
 @keyframes QXF
@@ -37,5 +38,5 @@ to {background:blue;}
 </head>
 <body>
 
-<div class="QXF">鼠标放在这</div>
+<div class="QXF"></div>
 </body>
