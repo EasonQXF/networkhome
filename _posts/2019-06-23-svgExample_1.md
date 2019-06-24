@@ -22,7 +22,7 @@ tags:
 width:100px;
 height:100px;
 background:red;
-animation:my 5s;
+animation:QXF 5s;
 }
 
 @keyframes QXF
@@ -37,5 +37,5 @@ to {background:blue;}
 </head>
 <body>
 
-<div class="QXF">A</div>
+<div class="QXF">鼠标放在这</div>
 </body>
