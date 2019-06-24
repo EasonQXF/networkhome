@@ -79,8 +79,6 @@ animation:aaa 5s linear 2s infinite alternate;
 <style> 
 .bbb
 {
-width:100px;
-height:100px;
 background:red;
 position:relative;
 animation:bbb 5s linear 2s infinite alternate;
@@ -96,7 +94,7 @@ animation:bbb 5s linear 2s infinite alternate;
 }
 </style>
 </head>
-<svg class="bbb" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg class="bbb" version="1.1">
   <path d="M150 0 L75 200 L225 200 Z" />
 </svg>
 
