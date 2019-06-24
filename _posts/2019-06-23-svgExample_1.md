@@ -9,8 +9,8 @@ tags:
   - svg
 
 ---
-1.
-2.
+SVG+CSS3动画
+
 <!--more-->
 ## SVG有趣的例子
 - 颜色会渐变
@@ -39,4 +39,32 @@ to {background:blue;}
 <body>
 
 <div class="QXF"></div>
+</body>
+
+
+- 不仅会渐变，还会移动
+<head>
+<style> 
+div
+{
+width:100px;
+height:100px;
+background:red;
+position:relative;
+animation:aaa 5s linear 2s infinite alternate;
+
+
+@keyframes aaa
+{
+0%   {background:red; left:0px; top:0px;}
+25%  {background:green; left:200px; top:0px;}
+50%  {background:yellow; left:200px; top:200px;}
+75%  {background:black; left:0px; top:200px;}
+100% {background:red; left:0px; top:0px;}
+}
+</style>
+</head>
+<body>
+<div>动起来</div>
+
 </body>
