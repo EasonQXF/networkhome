@@ -20,7 +20,7 @@ description:
 baseurl: "/jekyll-theme-basically-basic"# the optional subpath of your site, e.g. "/blog"
 url: "https://gitee.com/EdisonQXF/projects"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
+  name: "丘小峰"
   twitter:
   picture:
 twitter_username:
