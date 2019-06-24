@@ -44,8 +44,9 @@ to {background:blue;}
 
 - 不仅会渐变，还会移动
 <head>
+  <meta charset="UTF-8">
 <style> 
-div
+.aaa
 {
 width:100px;
 height:100px;
