@@ -1,6 +1,6 @@
 ---
 layout: home
-image: assets/images/banner0.jpg
+image: assets/images/banner.jpg
 ---
 <style>
 header.intro{
