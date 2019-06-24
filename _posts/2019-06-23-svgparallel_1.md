@@ -23,14 +23,14 @@ background:white;
 animation:ping 5s;
 animation-iteration-count: infinite;
 attributeName="x";
+dur="4s";
+begin="1s";
 }
 
 @keyframes ping
 {
 From="50";
 to="300";
-dur="4s";
-begin="1s";
 }
 </style>
 </head>
