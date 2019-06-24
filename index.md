@@ -6,4 +6,4 @@ image: assets/images/banner0.jpg
 header.intro{
 display:none;
 }
-</stylr>
+</style>
