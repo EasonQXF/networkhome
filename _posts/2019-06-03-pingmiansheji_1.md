@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 平面设计/Graphic Design
+title: 我对平面设计的一点理解
 excerpt_separator: "<!--more-->"
 date: 2019-06-03
 categories:
