@@ -77,16 +77,16 @@ animation:aaa 5s linear 2s infinite alternate;
 <head>
   <meta charset="UTF-8">
 <style> 
-.svg
+.bbb
 {
 width:100px;
 height:100px;
 background:red;
 position:relative;
-animation:svg 5s linear 2s infinite alternate;
+animation:bbb 5s linear 2s infinite alternate;
 }
 
-@keyframes svg
+@keyframes bbb
 {
 0%   {background:red; left:0px; top:0px;}
 25%  {background:green; left:200px; top:0px;}
