@@ -23,3 +23,6 @@ restart="always" repeatCount="3">
 </svg>
 - (attributeType：变化的类型，是HTML还是css)
 - 创建一个SVG图形，设定好x，y两个坐标，再设定往哪个轴移动attributeName，再设定from、to既可以设定起始和结束坐标，还有添加过程的时间dur、开始前的时间begin、restart、repeatCount等即可以完成SVG图片的平移动画。
+- 你学会了吗？赶紧尝试一下吧！
+- 实践才能出真知。
+- 我在做这个的时候因为代码忘记加上结束</svg>，导致不断尝试不断查资料，最后仔细检查才修改正确。吸取教训，基础知识要牢记，多动手练习。
