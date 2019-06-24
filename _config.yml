@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: zn-CN
-title: 丘小峰之人间不值得
+title: Qiu Xiaofeng Very Good
 email:
 description:
 baseurl: "Xiaofeng" #jekyll-theme-basically-basic"# the optional subpath of your site, e.g. "/blog"
