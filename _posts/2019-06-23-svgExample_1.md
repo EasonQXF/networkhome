@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 平面设计之字体篇
+title: SVG有趣的例子
 excerpt_separator: "<!--more-->"
 date: 2019-06-23
 categories:
