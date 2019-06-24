@@ -52,7 +52,7 @@ height:100px;
 background:red;
 position:relative;
 animation:aaa 5s linear 2s infinite alternate;
-
+}
 
 @keyframes aaa
 {
