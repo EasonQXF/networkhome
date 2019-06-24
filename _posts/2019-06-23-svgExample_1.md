@@ -69,3 +69,35 @@ animation:aaa 5s linear 2s infinite alternate;
 <div class="aaa">动起来</div>
 
 </body>
+
+
+- 再将SVG和CSS3动画结合起来
+
+<body>
+<head>
+  <meta charset="UTF-8">
+<style> 
+.svg
+{
+width:100px;
+height:100px;
+background:red;
+position:relative;
+animation:svg 5s linear 2s infinite alternate;
+}
+
+@keyframes svg
+{
+0%   {background:red; left:0px; top:0px;}
+25%  {background:green; left:200px; top:0px;}
+50%  {background:yellow; left:200px; top:200px;}
+75%  {background:black; left:0px; top:200px;}
+100% {background:red; left:0px; top:0px;}
+}
+</style>
+</head>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <path d="M150 0 L75 200 L225 200 Z" />
+</svg>
+
+</body>
