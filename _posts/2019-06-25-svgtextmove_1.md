@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SVG的文本移动
+title: Superman不止超人会飞！这个单词同样神奇！
 excerpt_separator: "<!--more-->"
 date: 2019-06-25
 categories:
@@ -9,7 +9,7 @@ tags:
   - svg
 
 ---
-
+Superman不止超人会飞！这个单词同样神奇！
 <!--more-->
 ## SVG的文本移动
 下面是superman这个单词沿着一条带拐弯的路径移动。
