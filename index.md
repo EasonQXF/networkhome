@@ -3,7 +3,7 @@ layout: home
 image: assets/images/banner.jpg
 ---
 <style>
-header.intro{
+header.intro {
 display: none;
 }
 </style>
