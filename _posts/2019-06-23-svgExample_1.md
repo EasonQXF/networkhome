@@ -9,7 +9,7 @@ tags:
   - svg
 
 ---
-SVG+CSS3动画
+SVG+CSS3动画听说很配噢~~
 
 <!--more-->
 ## SVG有趣的例子
