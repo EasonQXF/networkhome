@@ -1,4 +1,7 @@
 
+<audio controls="controls" hidden="hidden" autoplay="autoplay" loop="loop">
+<source src="assets/music/差不多先生.mp3" type="audio/mpeg" />
+</audio>
 ## 私密档案
 1. 身高：171cm
 2. 体重：54kg
