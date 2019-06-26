@@ -7,4 +7,4 @@
 5. 爱好：唱歌、运动
 6. 喜欢歌手：陈奕迅、五月天、林宥嘉、林俊杰等
 7. 特别爱好：女
-- ![about](https://gitee.com/EdisonQXF/Xiaofeng/raw/gh-pages/assets/images/about.png)
+- ![about](https://gitee.com/EdisonQXF/Xiaofeng/raw/gh-pages/assets/images/about.jpg)
