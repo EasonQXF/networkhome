@@ -83,3 +83,6 @@ defaults:
     values:
       layout: post
       read_time: true
+# 畅言
+changyan_appid: 'cyuiXHhTr'
+changyan_conf: 'prod_51e86dde54ea532e0fcfcf1bcfb31528'
