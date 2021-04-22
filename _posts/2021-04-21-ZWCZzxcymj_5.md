@@ -57,7 +57,7 @@ categories:
 
 在实习僧中找到了媒介代理公司-微梦传媒的相关职位招聘信息：数据运营实习生。
 
-![weimengchuanmei](https://gitee.com/EdisonQXF/Xiaofeng/raw/gh-pages/assets/images/shujuyunying.png)
+![weimengchuanmei](https://gitee.com/EdisonQXF/Xiaofeng/raw/gh-pages/assets/images/shujuyunying.jpg)
 
 #### 工作职责：
 1.负责网站内容以及数据维护；
